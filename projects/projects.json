@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Laboratory Website",
+    "desc": "The official website of Janki Raghunath R&D Laboratory (JRL), specializing in soil, material, bitumen testing...🧪🔬",
+    "image": "jrl",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jrltestings.com/",
+      "code": "https://jrltestings.com/"
+    }
+  },
+  {
+    "name": "Food Recipe Website",
+    "desc": "A food recipe website featuring a collection of delicious recipes along with integrated recipe videos.🍽️👨‍🍳",
+    "image": "food",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Food-Recipe-Website",
+      "code": "https://github.com/Adityaraj1904/Food-Recipe-Website"
+    }
+  },
+  {
+    "name": "Chatbot based ticketing system",
+    "desc": "A chatbot-powered museum ticketing system where users can seamlessly book tickets, inquire about museum details through an interactive chatbot interface.🤖",
+    "image": "chatbot",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Online-Chatbot-based-ticketing-system",
+      "code": "https://github.com/Adityaraj1904/Online-Chatbot-based-ticketing-system"
+    }
+  },
+  {
+    "name": "Currency Converter",
+    "desc": "Fast and user-friendly currency converter with real-time exchange rates. 💱",
+    "image": "currency",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/CurrencyConverter",
+      "code": "https://github.com/Adityaraj1904/CurrencyConverter"
+    }
+  },
+  {
+    "name": "Weather Forecast",
+    "desc": "A fast and accurate weather forecasting app with real-time updates and interactive UI. ⛅",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/weather-forecast",
+      "code": "https://github.com/Adityaraj1904/weather-forecast"
+    }
+  },
+  {
+    "name": "DICTIONARY",
+    "desc": "This is a simple dictionary application that allows users to search for word meanings. 📖🔍",
+    "image": "dictionary",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/WORDICTIONARY",
+      "code": "https://github.com/Adityaraj1904/WORDICTIONARY"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A modern and responsive portfolio template designed to showcase work, skills, and experience. 💼",
+    "image": "portfolio",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/portfolio-website",
+      "code": "https://github.com/Adityaraj1904/portfolio-website"
+    }
+  },
+  {
+    "name": "Password Generator",
+    "desc": "A secure and customizable password generator allowing users to create strong passwords with adjustable length and character options. 🔑",
+    "image": "password",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Password-Generator",
+      "code": "https://github.com/Adityaraj1904/Password-Generator"
+    }
+  },
+  {
+    "name": "StonePaperScissors",
+    "desc": "A fun and interactive Stone Paper Scissors game. Enjoy a classic game with a smooth and responsive user experience. ✊📄✂️",
+    "image": "stone_paper",
+    "category": "games",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/StonePaperScissors",
+      "code": "https://github.com/Adityaraj1904/StonePaperScissors"
+    }
+  },
+  {
+    "name": "TicTacToe",
+    "desc": "A classic Tic-Tac-Toe game featuring an interactive and responsive UI for an engaging gameplay experience. 🎮❌⭕",
+    "image": "tic_tac_toe",
+    "category": "games",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/TicTacToe",
+      "code": "https://github.com/Adityaraj1904/TicTacToe"
+    }
+  },
+  {
+    "name": "Flip a coin game",
+    "desc": "A simple and interactive coin flip game.Test your luck with a realistic flipping animation and an engaging user experience.🪙",
+    "image": "coin",
+    "category": "games",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Flip-a-coin-game",
+      "code": "https://github.com/Adityaraj1904/Flip-a-coin-game"
+    }
+  },
+  {
+    "name": "Todo app",
+    "desc": "A simple and efficient task management app. Allows users to add, edit, and track their daily tasks with a clean and intuitive interface.📝",
+    "image": "todo",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Todo-app",
+      "code": "https://github.com/Adityaraj1904/Todo-app"
+    }
+  },
+  {
+    "name": "Countdown Timer",
+    "desc": "A simple and customizable countdown timer allowing users to set and track time with a sleek and responsive interface.⏳",
+    "image": "timer",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/CountdownTimer",
+      "code": "https://github.com/Adityaraj1904/CountdownTimer"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "A simple and efficient calculator built using JavaScript, offering basic arithmetic operations with a clean and responsive design.🔢",
+    "image": "calculator",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Calculator",
+      "code": "https://github.com/Adityaraj1904/Calculator"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "A web-based music player with album artwork, track details, and playback controls.🎵",
+    "image": "music2",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/music-player-updated",
+      "code": "https://github.com/Adityaraj1904/music-player-updated"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "A sleek and responsive music player app offering seamless audio playback and an intuitive user experience.🎵",
+    "image": "music",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Music-Player-App",
+      "code": "https://github.com/Adityaraj1904/Music-Player-App"
+    }
+  },
+  {
+    "name": "YouTube Clone",
+    "desc": "A fully responsive YouTube clone. ▶️",
+    "image": "Youtube",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/YouTube_Clone",
+      "code": "https://github.com/Adityaraj1904/YouTube_Clone"
+    }
+  },
+  {
+    "name": "Amazon Clone",
+    "desc": "A fully responsive Amazon clone website.🛒",
+    "image": "amazon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Amazon_clone",
+      "code": "https://github.com/Adityaraj1904/Amazon_clone"
+    }
+  },
+  {
+    "name": "Modern Login Page",
+    "desc": "A sleek and responsive modern login page. Features a clean UI with smooth animations and secure authentication design. 🔐",
+    "image": "modern_login",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Modern-Login_Page",
+      "code": "https://github.com/Adityaraj1904/Modern-Login_Page"
+    }
+  },
+  {
+    "name": "Login page",
+    "desc": "A simple and stylish login page. Features a user-friendly interface with secure authentication design. 🔐",
+    "image": "login",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Adityaraj1904/Login_page",
+      "code": "https://github.com/Adityaraj1904/Login_page"
+    }
+  } 
+]
