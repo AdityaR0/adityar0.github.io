@@ -1412,5 +1412,30 @@ form .button-area {
   }
 }
 
-/* ============================================================= */
+/* ======================background code 1PG======================================= */
+/* #codeCanvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fbfafa; 
+  opacity: 0.85;
+} */
+
+#codeCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+section#home {
+  position: relative;
+  overflow: hidden;
+}
 
