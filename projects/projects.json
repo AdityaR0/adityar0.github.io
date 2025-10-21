@@ -1,6 +1,6 @@
 [
   {
-    "name": "Laboratory Website",
+    "name": "JRL Laboratory Website",
     "desc": "The official website of Janki Raghunath R&D Laboratory (JRL), specializing in soil, material, bitumen testing...🧪🔬",
     "image": "jrl",
     "category": "basicweb",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "Grocery Website",
+    "name": "Online Grocery Store",
     "desc": "MinuteMart – A full-stack web app for fast and secure online grocery shopping.🛒",
     "image": "MinuteMart",
     "category": "basicweb",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "Farming AI Website",
+    "name": "AI Farming Assistant",
     "desc": "AI-powered digital assistant for farmers offering crop advice, disease detection & chatbot support.🌱 ",
     "image": "KrishiSakhi",
     "category": "basicweb",
@@ -40,7 +40,7 @@
     }
   },
   {
-    "name": "MuseumBot",
+    "name": "Museum Ticketing Chatbot",
     "desc": "A chatbot-powered museum ticketing system where users can seamlessly book tickets, inquire about museum details through an interactive chatbot interface.🤖",
     "image": "chatbot",
     "category": "basicweb",
@@ -70,7 +70,7 @@
     }
   },
     {
-    "name": "Portfolio Website",
+    "name": "Portfolio",
     "desc": "A modern and responsive portfolio template designed to showcase work, skills, and experience. 💼",
     "image": "portfolio",
     "category": "mern",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "Greeting Website",
+    "name": "Greeting Card Generator",
     "desc": "Multi-occasion card generator with personalized messages, themes, and downloadable PNGs.🎉🪔 ",
     "image": "greeting-generator",
     "category": "basicweb",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "name": "Gender-Age-Detector",
+    "name": "AI Gender & Age Detector",
     "desc": "An AI-powered application that predicts a person’s gender and age from an image using deep learning. 🧠📸",
     "image": "age",
     "category": "games",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "name": "DICTIONARY",
+    "name": "Dictionary",
     "desc": "This is a simple dictionary application that allows users to search for word meanings. 📖🔍",
     "image": "dictionary",
     "category": "mern",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "name": "php-login-signup-system",
+    "name": "Login & Signup System (PHP)",
     "desc": "A secure login and signup system built with PHP, including authentication and session handling. 🔐",
     "image": "login-signup",
     "category": "games",
@@ -140,7 +140,7 @@
     }
   },
   {
-    "name": "xkcd-email-subscription",
+    "name": "Comic Email Subscription",
     "desc": "An automated email subscription service that sends XKCD comics to subscribers. 📧📬",
     "image": "email-subscription",
     "category": "games",
@@ -160,7 +160,7 @@
     }
   },
   {
-    "name": "Memory-Card-Game",
+    "name": "Memory Card Game",
     "desc": "A fun memory-matching game where players flip cards to find pairs, improving focus and recall. 🃏🧠",
     "image": "Memory",
     "category": "games",
@@ -170,7 +170,7 @@
     }
   },
   {
-    "name": "StonePaperScissors",
+    "name": "Stone Paper Scissors Game",
     "desc": "A fun and interactive Stone Paper Scissors game. Enjoy a classic game with a smooth and responsive user experience. ✊📄✂️",
     "image": "stone_paper",
     "category": "games",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "name": "TicTacToe",
+    "name": "Tic Tac Toe Game",
     "desc": "A classic Tic-Tac-Toe game featuring an interactive and responsive UI for an engaging gameplay experience. 🎮❌⭕",
     "image": "tic_tac_toe",
     "category": "games",
@@ -190,7 +190,7 @@
     }
   },
   {
-    "name": "Flip a coin game",
+    "name": "Coin Flip Game",
     "desc": "A simple and interactive coin flip game.Test your luck with a realistic flipping animation and an engaging user experience.🪙",
     "image": "coin",
     "category": "games",
@@ -310,6 +310,7 @@
     }
   } 
 ]
+
 
 
 
