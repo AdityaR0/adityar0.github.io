@@ -15,7 +15,7 @@
     "image": "MinuteMart",
     "category": "basicweb",
     "links": {
-      "view": "https://minutemart.onrender.com/",
+      "view": "https://github.com/Adityaraj1904/MinuteMart",
       "code": "https://github.com/Adityaraj1904/MinuteMart"
     }
   },
@@ -25,8 +25,8 @@
     "image": "KrishiSakhi",
     "category": "basicweb",
     "links": {
-      "view": "https://krishisakhi-8hch.onrender.com/",
-      "code": "https://github.com/Adityaraj1904/KrishiSakhi"
+      "view": "https://github.com/Adityaraj1904/KrishiSakhi",
+      "code": "https://github.com/Adityaraj1904/KrishiSakh"
     }
   },
   {
@@ -65,7 +65,7 @@
     "image": "Agrisense.AI",
     "category": "basicweb",
     "links": {
-      "view": "https://agrisense-ai-eight.vercel.app/",
+      "view": "https://github.com/Adityaraj1904/Agrisense.AI",
       "code": "https://github.com/Adityaraj1904/Agrisense.AI"
     }
   },
@@ -85,7 +85,7 @@
     "image": "greeting-generator",
     "category": "basicweb",
     "links": {
-      "view": "https://greetinggenerator.netlify.app/",
+      "view": "https://github.com/Adityaraj1904/greeting-generator",
       "code": "https://github.com/Adityaraj1904/greeting-generator"
     }
   },
@@ -310,4 +310,5 @@
     }
   } 
 ]
+
 
