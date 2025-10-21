@@ -40,7 +40,7 @@
     }
   },
   {
-    "name": "Chatbot based ticketing system",
+    "name": "MuseumBot",
     "desc": "A chatbot-powered museum ticketing system where users can seamlessly book tickets, inquire about museum details through an interactive chatbot interface.🤖",
     "image": "chatbot",
     "category": "basicweb",
@@ -310,5 +310,6 @@
     }
   } 
 ]
+
 
 
