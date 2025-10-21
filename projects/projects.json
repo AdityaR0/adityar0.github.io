@@ -6,7 +6,27 @@
     "category": "basicweb",
     "links": {
       "view": "https://jrltestings.com/",
-      "code": "https://jrltestings.com/"
+      "code": "https://github.com/Adityaraj1904/JRL-Laboratory-Website"
+    }
+  },
+  {
+    "name": "Grocery Website",
+    "desc": "MinuteMart – A full-stack web app for fast and secure online grocery shopping.🛒",
+    "image": "MinuteMart",
+    "category": "basicweb",
+    "links": {
+      "view": "https://minutemart.onrender.com/",
+      "code": "https://github.com/Adityaraj1904/MinuteMart"
+    }
+  },
+  {
+    "name": "Farming AI Website",
+    "desc": "AI-powered digital assistant for farmers offering crop advice, disease detection & chatbot support.🌱 ",
+    "image": "KrishiSakhi",
+    "category": "basicweb",
+    "links": {
+      "view": "https://krishisakhi-8hch.onrender.com/",
+      "code": "https://github.com/Adityaraj1904/KrishiSakhi"
     }
   },
   {
@@ -39,6 +59,16 @@
       "code": "https://github.com/Adityaraj1904/E-Learning-Website"
     }
   },
+  {
+    "name": "Smart Farming Website",
+    "desc": "AI platform for crop recommendation, yield prediction & fertilizer optimization.🌾",
+    "image": "Agrisense.AI",
+    "category": "basicweb",
+    "links": {
+      "view": "https://agrisense-ai-eight.vercel.app/",
+      "code": "https://github.com/Adityaraj1904/Agrisense.AI"
+    }
+  },
     {
     "name": "Portfolio Website",
     "desc": "A modern and responsive portfolio template designed to showcase work, skills, and experience. 💼",
@@ -47,6 +77,16 @@
     "links": {
       "view": "https://github.com/Adityaraj1904/portfolio-website",
       "code": "https://github.com/Adityaraj1904/portfolio-website"
+    }
+  },
+  {
+    "name": "Greeting Website",
+    "desc": "Multi-occasion card generator with personalized messages, themes, and downloadable PNGs.🎉🪔 ",
+    "image": "greeting-generator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://greetinggenerator.netlify.app/",
+      "code": "https://github.com/Adityaraj1904/greeting-generator"
     }
   },
   {
@@ -270,3 +310,4 @@
     }
   } 
 ]
+
