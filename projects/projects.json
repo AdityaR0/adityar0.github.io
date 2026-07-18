@@ -20,6 +20,16 @@
     }
   },
   {
+  name: "RideShare – AI Powered Carpool Management System",
+  desc: "Full-stack carpool platform for secure ride booking, vehicle rental & AI assistance. 🚘",
+  image: "rideshare",
+  category: "mern",
+  links: {
+    view: "https://rideshare-opal-two.vercel.app/",
+    code: "https://github.com/Adityaraj1904/RideShare"
+  }
+},
+  {
     "name": "AI Farming Assistant",
     "desc": "AI-powered digital assistant for farmers offering crop advice, disease detection & chatbot support.🌱 ",
     "image": "KrishiSakhi",
