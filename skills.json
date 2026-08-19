@@ -45,18 +45,22 @@
     },
     {
     "name": "Generative AI",
-    "icon": "assets/images/skills/gai.png"
+    "icon": "https://img.icons8.com/fluency/48/ai-generated-code.png"
 },
 {
+    "name": "Embedding",
+    "icon": "https://img.icons8.com/color/48/developer--v1.png"
+},
+    {
     "name": "LangChain",
-    "icon": "assets/images/skills/lc.png"
+    "icon": "https://img.icons8.com/fluency/48/chain.png"
 },
 {
     "name": "LLM",
-    "icon": "assets/images/skills/llm.png"
+    "icon": "https://img.icons8.com/ios/50/electronic-brain.png"
 },
 {
     "name": "Prompt Engineering",
-    "icon": "assets/images/skills/pe.png"
+    "icon": "https://img.icons8.com/ios/50/engineering.png"
 }
 ]
