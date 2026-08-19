@@ -42,5 +42,21 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    } 
+    },
+    {
+    "name": "Generative AI",
+    "icon": "assets/images/skills/gai.png"
+},
+{
+    "name": "LangChain",
+    "icon": "assets/images/skills/lc.png"
+},
+{
+    "name": "LLM",
+    "icon": "assets/images/skills/llm.png"
+},
+{
+    "name": "Prompt Engineering",
+    "icon": "assets/images/skills/pe.png"
+}
 ]
